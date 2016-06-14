@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/navigation_item_attachment"
+            android:checked="true"
+            android:icon="@drawable/ic_home"
+            android:title="@string/home_drawer" />
+        <item
+            android:id="@+id/navigation_item_images"
+            android:icon="@drawable/ic_account"
+            android:title="@string/account_drawer" />
+        <item
+            android:id="@+id/navigation_item_location"
+            android:icon="@drawable/ic_announcement"
+            android:title="@string/announcement_drawer" />
+    </group>
+
+    <item android:title="@string/sub_menu_drawer">
+        <menu>
+            <item
+                android:icon="@drawable/ic_attach"
+                android:title="@string/attach_subdrawer" />
+        </menu>
+    </item>
+
+</menu>

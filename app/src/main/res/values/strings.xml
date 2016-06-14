@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">STEP</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="password">Password</string>
+    <string name="desc">Logo of STEP</string>
+    <string name="nameTag">Name</string>
+    <string name="e_mailTag">E-mail</string>
+    <string name="create_accountTag">Create Account</string>
+    <string name="login_link">Already a member? Login</string>
+    <string name="email_idTag">Email id</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home_drawer">Home</string>
+    <string name="account_drawer">Account</string>
+    <string name="announcement_drawer">Announcement</string>
+    <string name="attach_subdrawer">Attach</string>
+    <string name="sub_menu_drawer">Sub-Menu</string>
+</resources>
